@@ -18,7 +18,7 @@ This project demonstrates how Excel can be used not only for simple reporting bu
 
 This dataset contains Adidas sales transactions including details about product type, pricing, region, and performance metrics like sales and profit.
 
-## Key Business Questions Answered;
+## ❓  Key Business Questions Answered;
 1.	Find which product categories bring in the most Total Sales and Profit.
 2.	What is the relationship between “Units Sold” and “Operating Profit”?
 
@@ -28,6 +28,40 @@ This dataset contains Adidas sales transactions including details about product 
 6.	Man Vs  Woman indicators in Different Region?
 
 Each question was analysed using a dedicated PivotTable and visualized with a chart for clarity.
+
+⚙️ Process
+
+### 1️⃣ Data Cleaning
+- Checked for missing values and formatting issues  
+- Converted “Price per Unit” and “Total Sales” columns to numeric format  
+- Removed currency symbols and commas  
+- Ensured consistent date formatting (DD/MM/YYYY)
+
+### 2️⃣ Data Preparation
+- Added new calculated fields:
+  - **Profit per Unit** = Operating Profit / Units Sold  
+  - **Month** = Extracted from Invoice Date using `=TEXT([@[Invoice Date]],"mmmm")`
+- Ensured all fields were ready for PivotTables
+
+### 3️⃣ PivotTable Analysis
+Created multiple PivotTables for each question:
+- Grouped by Region, Product, and Sales Method  
+- Summarized total sales, profit, and margins  
+- Added slicers for dynamic filtering (e.g., by Region or Sales Method)
+
+### 4️⃣ Visualization
+- Created charts for each question:
+  - Column charts for product and region comparisons  
+  - Line chart for monthly trends  
+  - Scatter chart for correlation (Units vs Profit)  
+- Combined key visuals into one **Dashboard sheet**
+
+### 5️⃣ Dashboard Creation
+- Designed a clear and clean dashboard layout in Excel  
+- Included:
+  - KPIs: Total Sales, Total Profit, Avg Margin  
+  - Slicers for Region and Sales Method  
+  - Interactive charts linked to PivotTables
 
 
 
