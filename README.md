@@ -18,4 +18,16 @@ This project demonstrates how Excel can be used not only for simple reporting bu
 
 This dataset contains Adidas sales transactions including details about product type, pricing, region, and performance metrics like sales and profit.
 
+## Key Business Questions Answered;
+1.	Find which product categories bring in the most Total Sales and Profit.
+2.	What is the relationship between “Units Sold” and “Operating Profit”?
+
+3.	How do sales differ by region and state?
+4.	Which Sales Method (In-store vs Online) performs better?
+5.	How efficient is each sales method at generating profit?
+6.	Man Vs  Woman indicators in Different Region?
+
+Each question was analysed using a dedicated PivotTable and visualized with a chart for clarity.
+
+
 
