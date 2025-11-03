@@ -29,7 +29,7 @@ This dataset contains Adidas sales transactions including details about product 
 
 Each question was analysed using a dedicated PivotTable and visualized with a chart for clarity.
 
-##⚙️ Process
+## ⚙️ Process
 
 ### 1️⃣ Data Cleaning
 - Checked for missing values and formatting issues  
