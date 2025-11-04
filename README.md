@@ -86,7 +86,9 @@ Key takeaways:
 - **Data storytelling** — turning numbers into insights — is crucial for business decisions.
 
 📊 *This project highlights real-world analytical thinking and professional Excel reporting skills.*
-
+## ✍️ Author
+**Davlataliev Ilyosbek**  
+💼 Data Analytics Enthusiast | SQL, Excel & BI Learner
 
 
 
