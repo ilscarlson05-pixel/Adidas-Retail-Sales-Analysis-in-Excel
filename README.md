@@ -11,7 +11,7 @@ By leveraging PivotTables, charts, and dashboards, the project aims to uncover k
 This project demonstrates how Excel can be used not only for simple reporting but for business intelligence and data-driven decision-making
 ## 📚 Dataset Used
 - **Dataset Source:** [Adidas Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
-- **Number of Rows:** ~9,000  
+- **Number of Rows:** ~9653 
 - **Columns:** 12 (Retailer, Region, State, City, Product, Price per Unit, Units Sold, Total Sales, Operating Profit, Operating Margin, Sales Method, Invoice Date)
 - **Data Period:** 2020  
 - **File Type:** Excel (.xlsx)
