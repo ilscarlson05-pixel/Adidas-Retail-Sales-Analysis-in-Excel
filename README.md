@@ -1,4 +1,4 @@
-# Adidas-Retail-Sales-Analysis-in-Excel
+# 🎯 Adidas-Retail-Sales-Analysis-in-Excel
  ## 🚀  Project Objective
 
 The main goal of this project is to analyse **Adidas retail sales performance** across products, regions, and sales methods using **Microsoft Excel**.  
