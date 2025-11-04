@@ -64,7 +64,6 @@ Created multiple PivotTables for each question:
   - Interactive charts linked to PivotTables
  
   - ## Dashboard
-  - Adidas-Retail-Sales-Analysis-in-Excel/Screenshot 2025-11-04 105452.png at main · ilscarlson05-pixel/Adidas-Retail-Sales-Analysis-in-Excel
   - https://github.com/ilscarlson05-pixel/Adidas-Retail-Sales-Analysis-in-Excel/blob/main/Screenshot%202025-11-04%20105452.png
  
   - ## 💡 Project Insights
