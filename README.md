@@ -63,6 +63,9 @@ Created multiple PivotTables for each question:
   - Slicers for Region and Sales Method  
   - Interactive charts linked to PivotTables
  
+  - ## Dashboard
+  - https://github.com/ilscarlson05-pixel/Adidas-Retail-Sales-Analysis-in-Excel/blob/main/Screenshot%202025-11-04%20105452.png
+ 
   - ## 💡 Project Insights
 
 - 🥇 **Top Products:** Men's Street Footwear and Women's Athletic Footwear generated the highest revenue and consistent profits.  
